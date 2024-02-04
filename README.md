@@ -1,3 +1,6 @@
+# Simple todo list
+## small todo list project im putting on my github to hold myself accountable for working on it
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
